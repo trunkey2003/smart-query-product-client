@@ -1,0 +1,7 @@
+@import "./assets/css/font.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
